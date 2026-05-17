@@ -39,8 +39,3 @@ Low-cost implementation
  GPS tracking
  AI object recognition
  Mobile application support
-
-
-![Output](images/output_demo.png)
----
-## Future Enhancements- Voice assistance- GPS tracking- AI object recognition- Mobile application support
