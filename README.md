@@ -1,4 +1,4 @@
-# AI-Based--Smart-Navigation-System-Visually-Impaired-User
+# AI-Based-Smart-Navigation-System-Visually-Impaired-User
 
 ## Overview
 This project helps visually impaired people navigate safely using a LIDAR sensor and haptic feedback system. Raspberry Pi is used as the main controller to process obstacle data and provide vibration alerts.
