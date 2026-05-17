@@ -4,18 +4,18 @@
 This project helps visually impaired people navigate safely using a LIDAR sensor and haptic feedback system. Raspberry Pi is used as the main controller to process obstacle data and provide vibration alerts.
 
 ## Components Used-
-Raspberry Pi
-LIDAR Sensor 
-Haptic Motor 
-Battery 
-Jumper Wires 
-Breadboard
+- Raspberry Pi
+- LIDAR Sensor 
+- Haptic Motor 
+- Battery 
+- Jumper Wires 
+- Breadboard
 
 ## Technologies Used-
-Python
-Embedded Systems 
-Raspberry Pi
-Sensor Interfacing
+- Python
+- Embedded Systems 
+- Raspberry Pi
+- Sensor Interfacing
 
 ## Working Principle
 1. LIDAR sensor scans surroundings.
@@ -25,17 +25,18 @@ Sensor Interfacing
 5. Stronger vibration indicates closer obstacles.
 
 ## Features- 
-Real-time obstacle detection 
-Haptic vibration alerts 
-Portable system 
-Low-cost implementation
+- Real-time obstacle detection 
+- Haptic vibration alerts 
+- Portable system 
+- Low-cost implementation
 
 ## Output
 
-[Output](output_demo.png)
+Output image
 
 ## Future Enhancements
- Voice assistance
- GPS tracking
- AI object recognition
- Mobile application support
+
+- Voice assistance
+- GPS tracking
+- AI object recognition
+- Mobile application support
